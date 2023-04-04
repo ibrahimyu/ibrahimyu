@@ -15,7 +15,6 @@ You need something done? Or just want to chat? Reach me at...
 - Linkedin: https://www.linkedin.com/in/ibrahimyu/
 - Upwork: https://www.upwork.com/freelancers/~0116883dc206475320
 - Twitter: https://twitter.com/ibrahimyu_
-- Telegram: @bex_005
 
 <!---
 ibrahimyu/ibrahimyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
